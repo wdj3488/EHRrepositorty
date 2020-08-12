@@ -1,3 +1,4 @@
+%测试更改
 % load('exp1_1021.mat');
 % A  =  exp1_1021;
 % fid = fopen('exp1_1021.txt','wt');
